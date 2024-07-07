@@ -10,7 +10,7 @@ bpe.c is a lightweight, minimal implementation of a tokenizer using Byte Pair En
 
 ### How It Works
 
-- Initialization: The tokenizer starts with a basic vocabulary of 256 ASCII characters.
+- Initialization: The tokenizer starts with a basic vocabulary of 256 byte values.
 - Training: It analyzes the input text, finding the most frequent pairs of tokens and merging them iteratively until the desired vocabulary size is reached.
 - Encoding: Using the learned merges, it converts input text into a sequence of token IDs.
 - Decoding: It can reconstruct the original text from a sequence of token IDs.

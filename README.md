@@ -1,6 +1,6 @@
 # bpe.c
 
-bpe.c is a lightweight, minimal implementation of Byte Pair Encoding (BPE) in C.
+bpe.c is a lightweight, minimal implementation of Byte Pair Encoding (BPE) in C. Inspired by Andrej Karpathy [minbpe](https://github.com/karpathy/minbpe) .
 
 ### Features
 - Implements Byte Pair Encoding algorithm

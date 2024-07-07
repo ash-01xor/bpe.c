@@ -1,6 +1,6 @@
 # bpe.c
 
-bpe.c is a lightweight, minimal implementation of a tokenizer using Byte Pair Encoding (BPE) in C.
+bpe.c is a lightweight, minimal implementation of Byte Pair Encoding (BPE) in C.
 
 ### Features
 - Implements Byte Pair Encoding algorithm

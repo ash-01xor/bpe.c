@@ -58,3 +58,18 @@ int main() {
 The result:
 
 ![Implementation Result](images/BPE_result.png)
+
+## Citation
+
+If you use bpe.c in your research, please cite it as follows:
+
+```
+@misc{bpe.c2024,
+  author = {Ashvanth.S},
+  title = {bpe.c: Minimal implementation of Byte Pair Encoding (BPE) in C},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/ash-01xor/bpe.c}},
+}
+```
